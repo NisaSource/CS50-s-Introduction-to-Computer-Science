@@ -1,0 +1,10 @@
+CLI = 0.0588*L - 0.296*S - 15.8
+
+declare variable contain:
+L as letter per 100 words,
+S as sentences per 100 words,
+words
+
+get the string input from the user
+count the letters, words, and sentences from the input
+calculate the formula using 0.0588*L - 0.296*S - 15.8
